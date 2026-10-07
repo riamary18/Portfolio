@@ -841,7 +841,7 @@ body::before {
   border: 1px solid var(--border);
   border-radius: 16px;
 
-  cursor: default;
+  cursor: pointer;
 
   transition:
     transform 0.35s ease,
